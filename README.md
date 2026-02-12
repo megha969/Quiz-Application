@@ -10,13 +10,14 @@ Basic graphical interface using Swing and AWT.
 Getting Started
 Follow these steps to run the quiz application on your local machine:
 
-Clone the repository: git clone https://github.com/thdonadkar/Quiz-Application.git
 Compile the Java files: javac QuizApp.java
 Run the application: java QuizApp
 Answer the questions within the 15-second time limit.
 Screenshots
 <img width="324" height="156" alt="login" src="https://github.com/user-attachments/assets/e7f8f106-96ec-49c5-8c9e-5da51f36a5e7" />
 ![score](https://github.com/user-attachments/assets/5cfc9c37-0a08-43d5-b2ea-68dde57360b1)
+![quiz](https://github.com/user-attachments/assets/bce3e6ea-93d6-4209-ad66-7906946ae61a)
+
 
 
 
